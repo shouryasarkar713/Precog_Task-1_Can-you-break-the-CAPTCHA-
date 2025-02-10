@@ -34,8 +34,15 @@ This project uses the following libraries:
 
 You can install these dependencies by running:
 
-```bash
 pip install -r requirements.txt
+
+## How to Run the Project
+
+- The **'Models'** folder contains all the trained models for each task and dataset, which can be loaded and used directly in your code. However, the models for Task 1 were exceeding 25GB, so I have provided a drive link for downloading them. You can download the models from the provided link and use them in the project.
+
+- The **'Task Notebooks'** folder contains the full code for each of the tasks, from dataset generation to evaluating the model. You can run each notebook in order to see the step-by-step process of the OCR pipeline, from data synthesis to training and evaluation.
+
+Make sure to download the models and ensure all dependencies are installed before running the notebooks.
 
 
 
