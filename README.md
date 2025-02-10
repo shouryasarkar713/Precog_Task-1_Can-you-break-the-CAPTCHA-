@@ -2,9 +2,8 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-3. [Dependencies](#dependencies)
-5. [How to Run the Project](#how-to-run-the-project)
-6. [Usage](#usage)
+2. [Dependencies](#dependencies)
+3. [How to Run the Project](#how-to-run-the-project)
 
 ## Project Overview
 
