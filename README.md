@@ -26,11 +26,11 @@ This project uses the following libraries:
 - **numpy**: For numerical operations and array manipulations.
 - **pandas**: To handle CSV files and dataframes.
 - **nltk**: To access the NLTK words corpus for selecting random words.
-- **matplotlib**: To visualize images (if needed) and to use its `font_manager` for retrieving system fonts.
+- **matplotlib**: To visualize images and to use its `font_manager` for retrieving fonts.
 - **Pillow**: For image creation and manipulation.
 - **opencv-python**: To add Gaussian noise to images (via `cv2`).
 - **torch & torchvision**: For building and training deep neural networks (used across tasks for classification and OCR models).
-- **scikit-learn**: (Optional) For any additional machine learning utilities.
+- **scikit-learn**: For any additional utilities.
 
 You can install these dependencies by running:
 
